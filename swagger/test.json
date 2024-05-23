@@ -1,0 +1,10 @@
+{
+    "url": "https://drset.github.io/swagger/test.yaml",
+    "urls": [
+        {
+            "url": "https://drset.github.io/swagger/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
+
